@@ -3,9 +3,6 @@ Simple code, extreme effect.
 
 ### Social
 <div>
-	<a href="https://space.bilibili.com/529804852" target="_blank">
-        <img src="https://img.shields.io/badge/Bilibili-blue?style=for-the-badge&logo=bilibili" alt="BiliBili Badge"/>
-	</a>
 	<a href="https://x.com/hopeful8192" target="_blank">
         <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" alt="X Badge"/>
 	</a><br>
